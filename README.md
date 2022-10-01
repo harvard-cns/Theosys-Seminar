@@ -1,5 +1,8 @@
 # Harvard Systems-Theory Seminar
 
+## Description
+We are hoping to spur more fruitful collaborations between the theorists and the systems folks through Systems-Theory seminar. The seminar will be in Harvard SEC 2.330, with talks starting at 3:45 and snacks at 3:00.
+
 ## Schedule
 | Time  | Speaker  | Title |
 | :------------ |:---------------| :-----|
