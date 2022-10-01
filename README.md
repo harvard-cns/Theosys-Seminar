@@ -4,7 +4,7 @@
 We are hoping to spur more fruitful collaborations between the theorists and the systems folks through Systems-Theory seminar. The seminar will be in Harvard SEC 2.330, with talks starting at 3:45 and snacks at 3:00.
 
 ## Schedule
-| Time  | Speaker  | Title |
+| Time  | Speaker  | Title | Slides
 | :------------ |:---------------| :-----|
 | 9/28/2022     | [Minlan Yu](http://minlanyu.seas.harvard.edu/) (Harvard)| Algorithms for Programmable Switches
 | 10/12/2022     | [Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/) (Harvard)| TBD
