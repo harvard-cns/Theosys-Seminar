@@ -6,7 +6,7 @@ We are hoping to spur more fruitful collaborations between the theorists and the
 ## Schedule
 | Time  | Speaker  | Title | Slides | Video|
 | :------------ |:---------------| :-----| :-----|:-----|
-| 9/28/2022     | [Minlan Yu](http://minlanyu.seas.harvard.edu/) (Harvard)| Algorithms for Programmable Switches| |
+| 9/28/2022     | [Minlan Yu](http://minlanyu.seas.harvard.edu/) (Harvard)| Algorithms for Programmable Switches| [link](slides/theosys-22fall-1.pptx)|
 | 10/12/2022     | [Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/) (Harvard)| TBD
 | 10/26/2022     | [Alan Liu](https://zaoxing.github.io/) (Boston University)| TBD
 | 11/09/2022     | [Tim Kraska](https://people.csail.mit.edu/kraska/) (MIT)| TBD
