@@ -13,8 +13,10 @@ We are hoping to spur more fruitful collaborations between the theorists and the
   * Speaker: [Michael Mitzenmacher](https://www.eecs.harvard.edu/~michaelm/) (Harvard)
   * Abstract: Michael Mitzenmacher will talk about his work with several others on lossy compression schemes for federated and distributed learning systems, and the corresponding distributed mean estimation problem.  In particular, we’ll look at some of the properties of random rotations on high-dimensional spheres, and why they end up being useful in this setting. He’ll also talk a bit about his thoughts on working at the intersection of systems and theory, and how both sides need to talk more with each other.
 
-- 10/26/2022:
+- 10/26/2022: **Unleashing the Algorithmic Power of Approximate Computing Systems**
   * Speaker: [Alan Liu](https://zaoxing.github.io/) (Boston University)
+  * Abstract: Today’s computing systems, such as big data, networked, and steaming analytics systems, face increasing demands on performance, reliability, and energy efficiency. In the last few decades, rapidly evolving microprocessors have largely fulfilled these demands. However, with the slow-down of Moore’s Law, existing data processing systems are ill-suited for analyzing large-scale, dynamic data and face key underlying algorithmic challenges.
+In this talk, I will present my research on scaling data systems with approximation techniques for dynamic connected data processing. I will discuss efficient algorithms and implementations that enable mining complex structures in large-scale graph data. I will describe how bridging theory and practice with probabilistic and sampling theory can significantly speed up computations without specialized hardware. Finally, I will end the talk with my vision for building energy-efficient data-intensive and machine learning systems
  
 - 11/09/2022:
   * Speaker: [Tim Kraska](https://people.csail.mit.edu/kraska/) (MIT)
