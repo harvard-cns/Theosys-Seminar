@@ -21,7 +21,6 @@ In this talk, I will present my research on scaling data systems with approximat
 - 11/09/2022: **Towards instance-optimized data systems**
   * Speaker: [Tim Kraska](https://people.csail.mit.edu/kraska/) (MIT)
   * Abstract: Recently, there has been a lot of excitement around ML-enhanced (or learned) algorithms and data structures. For example, there has been work on applying machine learning to improve query optimization, indexing, storage layouts, scheduling, log-structured merge trees, sorting, compression, sketches, among many other data management tasks. Arguably, the ideas behind these techniques are similar: machine learning is used to model the data and/or workload in order to derive a more efficient algorithm or data structure. Ultimately, what these techniques will allow us to build are “instance-optimized” systems; systems that self-adjust to a given workload and data distribution to provide unprecedented performance and avoid the need for tuning by an administrator.
-
 This talk will be an updated version of my VLDB 2022 keynote. I will  provide an overview of somet ML-enhanced algorithms and data structures and present initial results of SageDB, a first instance-optimized system. 
 
 
