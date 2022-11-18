@@ -30,7 +30,7 @@ This talk will be an updated version of my VLDB 2022 keynote. I will  provide an
 
 - 01/24/2023
 - 02/07/2023
-- 02/21/2023
+- 02/21/2023 Brighten Godfrey
 - 03/07/2023 
 - 03/21/2023 Jim Xu
 - 04/04/2023 Rachit Agarwal
