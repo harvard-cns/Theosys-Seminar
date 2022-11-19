@@ -34,4 +34,4 @@ This talk will be an updated version of my VLDB 2022 keynote. I will  provide an
 - 03/07/2023 
 - 03/21/2023 Jim Xu
 - 04/04/2023 Rachit Agarwal
-- 04/18/2023 Michael Schapira
+- 04/25/2023 Michael Schapira
