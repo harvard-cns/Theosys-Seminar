@@ -7,6 +7,14 @@ If you'd like to join our seminar announcement mailing list, please email Gioia 
 
 ## Schedule
 
+- 01/24/2023 Amar Phanishayee: GPU job scheduling
+- 02/07/2023 Ziv Scully: Theory in job scheduling
+- 02/21/2023 Brighten Godfrey
+- 03/07/2023 Xiaoqi Chen
+- 03/21/2023 Jim Xu
+- 04/04/2023 Rachit Agarwal
+- 04/20/2023 Michael Schapira
+
 - 09/28/2022: **Algorithms for Programmable Switches**
   * Speaker: [Minlan Yu](http://minlanyu.seas.harvard.edu/) (Harvard)
   * Abstract: Minlan Yu will be talking about her work about building algorithms and data structures into programmable switches.  But we'll also be talking about building up a community of people working at the interface of systems and theory, and how we think it can lead to great research synergies.  
@@ -30,10 +38,4 @@ This talk will be an updated version of my VLDB 2022 keynote. I will  provide an
   * Speaker: [Muhammad Alizadeh](https://people.csail.mit.edu/alizadeh/) (MIT)
   * Abstract: Trace-driven simulation is a widely used method for evaluating new ideas in systems. Today's trace-driven simulators assume that the interventions being simulated (e.g., a new algorithm or architectural choice) would not affect the validity of the traces. However, real-world traces are often biased by the environment used during trace collection, and hence replaying traces under an intervention may lead to incorrect results. This talk will present CausalSim, a causal inference framework for unbiased trace-driven simulation that addresses this challenge. CausalSim learns a causal model of the system dynamics and latent factors capturing the underlying system conditions during trace collection. It learns these models using an initial randomized control trial (RCT) under a fixed set of algorithms and uses them to remove biases from trace data when simulating new algorithms.<br />I will describe CausalSim’s key ideas, in particular, a connection between trace-driven simulation and a certain tensor completion task with extremely sparse observations. I will discuss how CasualSim exploits a basic distributional invariance property present in RCT data to solve this tensor completion problem. Finally, I will present CasualSim’s evaluation, including a real-world case study on the Puffer video streaming system in which CasualSim provides markedly different insights about adaptive bitrate (ABR) protocols compared to current biased simulators.
 
-- 01/24/2023 Amar Phanishayee: GPU job scheduling
-- 02/07/2023 Ziv Scully: Theory in job scheduling
-- 02/21/2023 Brighten Godfrey
-- 03/07/2023 Xiaoqi Chen
-- 03/21/2023 Jim Xu
-- 04/04/2023 Rachit Agarwal
-- 04/20/2023 Michael Schapira
+
