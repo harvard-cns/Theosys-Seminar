@@ -7,6 +7,7 @@ If you'd like to join our seminar announcement mailing list, please email Gioia 
 
 ## Schedule
 
+### Spring 2023
 - 01/24/2023 Amar Phanishayee: GPU job scheduling
 - 02/07/2023 Ziv Scully: Theory in job scheduling
 - 02/21/2023 Brighten Godfrey
@@ -15,6 +16,8 @@ If you'd like to join our seminar announcement mailing list, please email Gioia 
 - 04/04/2023 Rachit Agarwal
 - 04/20/2023 Michael Schapira
 
+
+### Fall 2022
 - 09/28/2022: **Algorithms for Programmable Switches**
   * Speaker: [Minlan Yu](http://minlanyu.seas.harvard.edu/) (Harvard)
   * Abstract: Minlan Yu will be talking about her work about building algorithms and data structures into programmable switches.  But we'll also be talking about building up a community of people working at the interface of systems and theory, and how we think it can lead to great research synergies.  
