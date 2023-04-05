@@ -8,11 +8,10 @@ If you'd like to join our seminar announcement mailing list, please email Gioia 
 ## Schedule
 
 ### Fall 2023
-- Sept 12, 2023
-- Sept 26, 2023
-- Oct 10, 2023
-- Oct 24, 2023
-- Nov 7, 2023
-- Nov 21, 2023
-- Dec 5, 2023
+- Sept 19, 2023
+- Oct 3, 2023
+- Oct 17, 2023
+- Oct 31, 2023
+- Nov 14, 2023
+- Nov 28, 2023
 
