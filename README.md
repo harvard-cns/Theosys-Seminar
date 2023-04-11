@@ -33,4 +33,6 @@ In this talk, I will first introduce BeauCoup, a framework for simultaneously ex
   
 - 04/04/2023 CANCELLED 
 
-- 04/20/2023 Michael Schapira (in person)
+- 04/20/2023 **Towards Learning-Powered Networked Systems**  
+  *  [Michael Schapira](https://www.michaelschapira.com/) (Hebrew University) (in person)
+  * Abstract: Recent years have witnessed a surge of interest in applying ideas and machinery from machine learning to the design of networked systems. I will discuss my recent efforts to incorporate learning into system design in the context of two fundamental networking challenges: routing and congestion control. Specifically, I will present a general vision for customizable, online-learning-based Internet congestion control, and also a novel, deep-learning-based approach for optimizing traffic flow between data centers. Time permitting, I will also discuss recent results on how the safe deployment of such learning-augmented systems can be accomplished.
