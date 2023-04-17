@@ -33,6 +33,12 @@ In this talk, I will first introduce BeauCoup, a framework for simultaneously ex
   
 - 04/04/2023 CANCELLED 
 
-- 04/20/2023 **Towards Learning-Powered Networked Systems**  
+- 04/20/2023 **Flow Optimization under Probabilistic Demands: Theory and Practice**  
   *  [Michael Schapira](https://www.michaelschapira.com/) (Hebrew University) (in person)
-  * Abstract: Recent years have witnessed a surge of interest in applying ideas and machinery from machine learning to the design of networked systems. I will discuss my recent efforts to incorporate learning into system design in the context of two fundamental networking challenges: routing and congestion control. Specifically, I will present a general vision for customizable, online-learning-based Internet congestion control, and also a novel, deep-learning-based approach for optimizing traffic flow between data centers. Time permitting, I will also discuss recent results on how the safe deployment of such learning-augmented systems can be accomplished.
+  * Abstract: Flow optimization in the presence of uncertainty about future traffic demands is a fact of life in many operational environments.
+A common approach for addressing this is predicting future traffic demands and optimizing with respect to these. 
+This, however, can give rise to poor quality solutions and prohibitively expensive runtimes. We present an alternative 
+approach to this fundamental challenge: direct stochastic optimization. We show, through theoretical analyses and 
+extensive empirical evaluation, that our approach yields both superior quality solutions and significantly faster runtimes.
+(Based on joint work with Yarin Perry, Felipe Vieira Frujeri, Chaim Hoch, Srikanth Kandula, Ishai Menache, and Aviv Tamar.
+Awarded Best Paper at NSDI 2023)
