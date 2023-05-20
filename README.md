@@ -8,7 +8,7 @@ If you'd like to join our seminar announcement mailing list, please email Gioia 
 ## Schedule
 
 ### Fall 2023
-- Sept 19, 2023
+- Sept 19, 2023: Ramesh Sitaraman
 - Oct 3, 2023
 - Oct 17, 2023
 - Oct 31, 2023
