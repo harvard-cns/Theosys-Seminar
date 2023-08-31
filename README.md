@@ -8,8 +8,8 @@ If you'd like to join our seminar announcement mailing list, please email Gioia 
 ## Schedule
 
 ### Fall 2023
-- Sept 19, 2023: Ramesh Sitaraman
-- Oct 3, 2023
+- Sept 19, 2023:
+- Oct 3, 2023: Ramesh Sitaraman
 - Oct 17, 2023: Michael Cafarella (MIT)
 - Oct 31, 2023: Alex Conway (Cornell Tech)
 - Nov 14, 2023: Michael Kagan (Nvidia) -- virtual + unusual time: 9:00 am
