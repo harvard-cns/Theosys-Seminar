@@ -9,7 +9,9 @@ If you'd like to join our seminar announcement mailing list, please email Gioia 
 
 ### Fall 2023
 - Oct 3, 2023: Ramesh Sitaraman (UMass Amherst)
+
    Title: Living on the Edge for a Quarter Century: A Personal Retrospective
+  
 Abstract:
 As the creation of the edge turns 25, we look back at the critical role that it has played in the evolution of internet services. The story of the edge started in the late 1990s when servers were deployed worldwide at the internet’s edge to provide content delivery services for web pages and videos. The quest to move dynamic content and application logic closer to users created the first edge computing services a few years later. Currently, edge services are accessed by billions of users daily, accounting for most of the users and traffic on the internet today. Close interactions between theory and practice enabled the dramatic rise of the edge over the last quarter century. Theoretical ideas became part of production systems and practice drove new theoretical formulations. In telling the story of the edge, we will emphasize a few of these interactions to highlight the role of theory in practice. 
 
