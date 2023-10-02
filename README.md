@@ -17,8 +17,8 @@ As the creation of the edge turns 25, we look back at the critical role that it 
 
 
 
-- Oct 17, 2023: Michael Cafarella (MIT)
+- Oct 17, 2023: Sandeep Silwal (MIT)
 - Oct 31, 2023: Alex Conway (Cornell Tech)
 - Nov 14, 2023: Michael Kagan (Nvidia) -- virtual + unusual time: 9:00 am
-- Nov 28, 2023: Rana Shahout
+- Nov 28, 2023: Michael Cafarella (MIT)
 
