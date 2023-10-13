@@ -25,5 +25,5 @@ Abstract: Estimating frequencies of elements appearing in a data stream is a key
 
 - Oct 31, 2023: Alex Conway (Cornell Tech)
 - Nov 14, 2023: Michael Kagan (Nvidia) -- virtual + unusual time: 9:00 am
-- Nov 28, 2023: Michael Cafarella (MIT)
+- Dec 5, 2023: Michael Cafarella (MIT)
 
