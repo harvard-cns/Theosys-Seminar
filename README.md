@@ -30,6 +30,12 @@ Abstract: Estimating frequencies of elements appearing in a data stream is a key
 Abstract: In this talk, I’ll show how algorithms can yield surprising new designs for virtual memory systems. I’ll present an algorithmic approach to co-designing TLB hardware and the paging mechanism to increase TLB reach without the fragmentation issues incurred by huge pages. Along the way, I’ll introduce a new hash-table design that overcomes existing tradeoffs, and achieves better performance than state-of-the-art hash tables both in theory and in practice. Key to these results are “tiny pointers,” an algorithmic technique for compressing pointers.
 
 
-- Nov 14, 2023: Michael Kagan (Nvidia) -- virtual + unusual time: 10:00 am
+- Nov 14, 2023: Junchen Jiang (University of Chicago)
+  
+  Title: : Perception-Driven Internet Systems
+
+Abstract: Internet systems serve as vital infrastructure, but what should they optimize for? Traditional approaches optimize system performance metrics, but the ways consumers of applications perceive the system performance are often more nuanced. For instance, viewers might be less discerning about video quality in general gameplay during a sports broadcast than pivotal moments like scores. This talk will introduce a paradigm shift to optimize for the perception of consumers rather than performance metrics. The new paradigm also embraces the trend that consumers are increasingly ML models (vision models and large language models) in AI applications, and these ML consumers also exhibit a wide range of sensitivities to system performance. The perception-driven paradigm offers new potential to enhance user experience for a broader audience without the necessity of new infrastructure or increased resource usage.
+
+
 - Dec 5, 2023: Michael Cafarella (MIT)
 
