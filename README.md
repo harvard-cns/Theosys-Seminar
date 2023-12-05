@@ -38,4 +38,10 @@ Abstract: Internet systems serve as vital infrastructure, but what should they o
 
 
 - Dec 5, 2023: Michael Cafarella (MIT)
+  
+  Title: : Sawmill: Applying Causal Reasoning to System Logs
+  
+Abstract: Causal reasoning is a growing part of AI and has become a core part of economists’ toolkit. But applying causal reasoning methods in practice has required a large amount of careful, difficult database preparation. As a result, causal methods have not penetrated into more mundane domains that could benefit from causal discovery.
+ 
+This talk will describe early work on how to apply causal methods to the practical domain of distributed system debugging. It offers a framework for processing log files and automatically constructing a representation that is amenable to causal interpretation. We also present algorithms for how to efficiently use this representation for causal discovery of dynamics of a distributed system, and for marshaling scarce user curation attention for building domain knowledge needed to answer practical systems questions.
 
